@@ -62,7 +62,7 @@ height:25px;
     width: 40px;
     height: 40px;
     position: absolute;
-    background: url("../1.jpg") no-repeat;
+    background: url("1.jpg") no-repeat;
     background-size: contain;
     /*background-color: #c40908;*/
     /*border: 1px solid silver;*/
